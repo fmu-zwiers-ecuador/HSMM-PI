@@ -27,7 +27,7 @@ sudo apt-get install -y \
     php \
     sqlite \
     php-mcrypt \
-    php3-sqlite \
+    php-sqlite3 \
     dnsmasq \
     sysv-rc-conf \
     make \
